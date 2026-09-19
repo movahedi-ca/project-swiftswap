@@ -1,0 +1,1551 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "generatedAt": "2026-09-19",
+    "methodology": "Taylor's Version ISRCs, titles, vault flags and explicit flags: verbatim MusicBrainz release-recording returns, position-mapped to the official album track listings (see research/research-notes.md). Legacy ISRCs: verbatim MusicBrainz returns for the original Big Machine editions. No ISRC was invented; a null/empty value means unverifiable, and the app falls back to title+album matching in that case.",
+    "coverage": {
+      "taylorsVersionsReleased": 4,
+      "taylorsVersionsPending": [
+        "Taylor Swift (Taylor's Version)",
+        "Reputation (Taylor's Version)"
+      ],
+      "mappedTracks": 74,
+      "vaultTracks": 26,
+      "pendingLegacyTracks": 26
+    }
+  },
+  "albums": [
+    {
+      "era": "Taylor Swift",
+      "legacyAlbum": "Taylor Swift",
+      "legacyYear": 2006,
+      "taylorsVersion": {
+        "status": "pending"
+      },
+      "vaultTracks": [],
+      "counts": {
+        "mapped": 0,
+        "vault": 0,
+        "pending": 11
+      }
+    },
+    {
+      "era": "Fearless",
+      "legacyAlbum": "Fearless",
+      "legacyYear": 2008,
+      "legacyLabel": "Big Machine Records",
+      "taylorsVersion": {
+        "status": "released",
+        "title": "Fearless (Taylor's Version)",
+        "releaseDate": "2021-04-09",
+        "label": "Republic Records"
+      },
+      "vaultTracks": [
+        {
+          "title": "You All Over Me (feat. Maren Morris) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12100637",
+          "explicit": false
+        },
+        {
+          "title": "Mr. Perfectly Fine (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12100638",
+          "explicit": false
+        },
+        {
+          "title": "We Were Happy (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12100639",
+          "explicit": false
+        },
+        {
+          "title": "That's When (feat. Keith Urban) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12100640",
+          "explicit": false
+        },
+        {
+          "title": "Don't You (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12100641",
+          "explicit": false
+        },
+        {
+          "title": "Bye Bye Baby (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12100642",
+          "explicit": false
+        }
+      ],
+      "counts": {
+        "mapped": 20,
+        "vault": 6,
+        "pending": 0
+      }
+    },
+    {
+      "era": "Speak Now",
+      "legacyAlbum": "Speak Now",
+      "legacyYear": 2010,
+      "legacyLabel": "Big Machine Records",
+      "taylorsVersion": {
+        "status": "released",
+        "title": "Speak Now (Taylor's Version)",
+        "releaseDate": "2023-07-07",
+        "label": "Republic Records"
+      },
+      "vaultTracks": [
+        {
+          "title": "Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12302089",
+          "explicit": false
+        },
+        {
+          "title": "When Emma Falls in Love (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12302090",
+          "explicit": false
+        },
+        {
+          "title": "I Can See You (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12302091",
+          "explicit": false
+        },
+        {
+          "title": "Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12302092",
+          "explicit": false
+        },
+        {
+          "title": "Foolish One (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12302093",
+          "explicit": false
+        },
+        {
+          "title": "Timeless (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12302094",
+          "explicit": false
+        }
+      ],
+      "counts": {
+        "mapped": 17,
+        "vault": 6,
+        "pending": 0
+      }
+    },
+    {
+      "era": "Red",
+      "legacyAlbum": "Red",
+      "legacyYear": 2012,
+      "legacyLabel": "Big Machine Records",
+      "taylorsVersion": {
+        "status": "released",
+        "title": "Red (Taylor's Version)",
+        "releaseDate": "2021-11-12",
+        "label": "Republic Records"
+      },
+      "vaultTracks": [
+        {
+          "title": "Better Man (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103682",
+          "explicit": false
+        },
+        {
+          "title": "Nothing New (feat. Phoebe Bridgers) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103683",
+          "explicit": false
+        },
+        {
+          "title": "Babe (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103684",
+          "explicit": false
+        },
+        {
+          "title": "Message in a Bottle (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103685",
+          "explicit": false
+        },
+        {
+          "title": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103686",
+          "explicit": true
+        },
+        {
+          "title": "Forever Winter (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103687",
+          "explicit": false
+        },
+        {
+          "title": "Run (feat. Ed Sheeran) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103688",
+          "explicit": false
+        },
+        {
+          "title": "The Very First Night (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103689",
+          "explicit": false
+        },
+        {
+          "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12103690",
+          "explicit": true
+        }
+      ],
+      "counts": {
+        "mapped": 21,
+        "vault": 9,
+        "pending": 0
+      }
+    },
+    {
+      "era": "1989",
+      "legacyAlbum": "1989",
+      "legacyYear": 2014,
+      "legacyLabel": "Big Machine Records",
+      "taylorsVersion": {
+        "status": "released",
+        "title": "1989 (Taylor's Version)",
+        "releaseDate": "2023-10-27",
+        "label": "Republic Records"
+      },
+      "vaultTracks": [
+        {
+          "title": "'Slut!' (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12306687",
+          "explicit": false
+        },
+        {
+          "title": "Say Don't Go (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12306688",
+          "explicit": false
+        },
+        {
+          "title": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12306689",
+          "explicit": false
+        },
+        {
+          "title": "Suburban Legends (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12306690",
+          "explicit": false
+        },
+        {
+          "title": "Is It Over Now? (Taylor's Version) (From The Vault)",
+          "isrc": "USUG12306691",
+          "explicit": false
+        }
+      ],
+      "counts": {
+        "mapped": 16,
+        "vault": 5,
+        "pending": 0
+      }
+    },
+    {
+      "era": "Reputation",
+      "legacyAlbum": "Reputation",
+      "legacyYear": 2017,
+      "taylorsVersion": {
+        "status": "pending"
+      },
+      "vaultTracks": [],
+      "counts": {
+        "mapped": 0,
+        "vault": 0,
+        "pending": 15
+      }
+    }
+  ],
+  "tracks": [
+    {
+      "legacyTitle": "Fearless",
+      "legacyDisplayTitle": "Fearless",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803332"
+      ],
+      "tvTitle": "Fearless (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100618"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Fifteen",
+      "legacyDisplayTitle": "Fifteen",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803333"
+      ],
+      "tvTitle": "Fifteen (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100619"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Love Story",
+      "legacyDisplayTitle": "Love Story",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803275"
+      ],
+      "tvTitle": "Love Story (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100342"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Hey Stephen",
+      "legacyDisplayTitle": "Hey Stephen",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803323"
+      ],
+      "tvTitle": "Hey Stephen (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100620"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "White Horse",
+      "legacyDisplayTitle": "White Horse",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803264"
+      ],
+      "tvTitle": "White Horse (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100621"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "You Belong with Me",
+      "legacyDisplayTitle": "You Belong with Me",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803328"
+      ],
+      "tvTitle": "You Belong with Me (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100622"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Breathe",
+      "legacyDisplayTitle": "Breathe (featuring Colbie Caillat)",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803331"
+      ],
+      "tvTitle": "Breathe (feat. Colbie Caillat) (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100623"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Tell Me Why",
+      "legacyDisplayTitle": "Tell Me Why",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803330"
+      ],
+      "tvTitle": "Tell Me Why (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100624"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "You're Not Sorry",
+      "legacyDisplayTitle": "You're Not Sorry",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803334"
+      ],
+      "tvTitle": "You're Not Sorry (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100625"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "The Way I Loved You",
+      "legacyDisplayTitle": "The Way I Loved You",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803327"
+      ],
+      "tvTitle": "The Way I Loved You (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100626"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Forever & Always",
+      "legacyDisplayTitle": "Forever & Always",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803336"
+      ],
+      "tvTitle": "Forever & Always (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100627"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "The Best Day",
+      "legacyDisplayTitle": "The Best Day",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803326"
+      ],
+      "tvTitle": "The Best Day (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100628"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Change",
+      "legacyDisplayTitle": "Change",
+      "legacyAlbum": "Fearless",
+      "legacyIsrcs": [
+        "USCJY0803274"
+      ],
+      "tvTitle": "Change (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100629"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Jump Then Fall",
+      "legacyDisplayTitle": "Jump Then Fall",
+      "legacyAlbum": null,
+      "legacyEdition": "Fearless Platinum Edition (2009)",
+      "legacyIsrcs": [],
+      "tvTitle": "Jump Then Fall (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100630"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Untouchable",
+      "legacyDisplayTitle": "Untouchable",
+      "legacyAlbum": null,
+      "legacyEdition": "Fearless Platinum Edition (2009)",
+      "legacyIsrcs": [],
+      "tvTitle": "Untouchable (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100631"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Forever & Always (Piano Version)",
+      "legacyDisplayTitle": "Forever & Always (Piano Version)",
+      "legacyAlbum": null,
+      "legacyEdition": "Fearless Platinum Edition (2009)",
+      "legacyIsrcs": [],
+      "tvTitle": "Forever & Always (Piano Version) (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100632"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Come in with the Rain",
+      "legacyDisplayTitle": "Come in with the Rain",
+      "legacyAlbum": null,
+      "legacyEdition": "Fearless Platinum Edition (2009)",
+      "legacyIsrcs": [],
+      "tvTitle": "Come in with the Rain (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100633"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Superstar",
+      "legacyDisplayTitle": "Superstar",
+      "legacyAlbum": null,
+      "legacyEdition": "Fearless Platinum Edition (2009)",
+      "legacyIsrcs": [],
+      "tvTitle": "Superstar (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100634"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "The Other Side of the Door",
+      "legacyDisplayTitle": "The Other Side of the Door",
+      "legacyAlbum": null,
+      "legacyEdition": "Fearless Platinum Edition (2009)",
+      "legacyIsrcs": [],
+      "tvTitle": "The Other Side of the Door (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100635"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Mine",
+      "legacyDisplayTitle": "Mine",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003645"
+      ],
+      "tvTitle": "Mine (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302073"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Sparks Fly",
+      "legacyDisplayTitle": "Sparks Fly",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003656"
+      ],
+      "tvTitle": "Sparks Fly (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302074"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Back to December",
+      "legacyDisplayTitle": "Back to December",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003657"
+      ],
+      "tvTitle": "Back to December (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302075"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Speak Now",
+      "legacyDisplayTitle": "Speak Now",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003658"
+      ],
+      "tvTitle": "Speak Now (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302076"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Dear John",
+      "legacyDisplayTitle": "Dear John",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003659"
+      ],
+      "tvTitle": "Dear John (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302077"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Mean",
+      "legacyDisplayTitle": "Mean",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003660"
+      ],
+      "tvTitle": "Mean (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302078"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "The Story of Us",
+      "legacyDisplayTitle": "The Story of Us",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003661"
+      ],
+      "tvTitle": "The Story of Us (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302079"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Never Grow Up",
+      "legacyDisplayTitle": "Never Grow Up",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003662"
+      ],
+      "tvTitle": "Never Grow Up (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302080"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Enchanted",
+      "legacyDisplayTitle": "Enchanted",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003663"
+      ],
+      "tvTitle": "Enchanted (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302081"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Better than Revenge",
+      "legacyDisplayTitle": "Better than Revenge",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003664"
+      ],
+      "tvTitle": "Better than Revenge (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302082"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Innocent",
+      "legacyDisplayTitle": "Innocent",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003665"
+      ],
+      "tvTitle": "Innocent (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302083"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Haunted",
+      "legacyDisplayTitle": "Haunted",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003666"
+      ],
+      "tvTitle": "Haunted (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302084"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Last Kiss",
+      "legacyDisplayTitle": "Last Kiss",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003667"
+      ],
+      "tvTitle": "Last Kiss (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302085"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Long Live",
+      "legacyDisplayTitle": "Long Live",
+      "legacyAlbum": "Speak Now",
+      "legacyIsrcs": [
+        "USCJY1003668"
+      ],
+      "tvTitle": "Long Live (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302086"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Ours",
+      "legacyDisplayTitle": "Ours",
+      "legacyAlbum": null,
+      "legacyEdition": "Speak Now Deluxe Edition (2010)",
+      "legacyIsrcs": [],
+      "tvTitle": "Ours (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302087"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Superman",
+      "legacyDisplayTitle": "Superman",
+      "legacyAlbum": null,
+      "legacyEdition": "Speak Now Deluxe Edition (2010)",
+      "legacyIsrcs": [],
+      "tvTitle": "Superman (Taylor's Version)",
+      "tvAlbum": "Speak Now (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12302088"
+      ],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "State of Grace",
+      "legacyDisplayTitle": "State of Grace",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231019"
+      ],
+      "tvTitle": "State of Grace (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103661"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Red",
+      "legacyDisplayTitle": "Red",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231020"
+      ],
+      "tvTitle": "Red (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103662"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Treacherous",
+      "legacyDisplayTitle": "Treacherous",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231038"
+      ],
+      "tvTitle": "Treacherous (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103663"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "I Knew You Were Trouble",
+      "legacyDisplayTitle": "I Knew You Were Trouble",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231039"
+      ],
+      "tvTitle": "I Knew You Were Trouble (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103664"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "All Too Well",
+      "legacyDisplayTitle": "All Too Well",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231021"
+      ],
+      "tvTitle": "All Too Well (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103665"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "22",
+      "legacyDisplayTitle": "22",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231040"
+      ],
+      "tvTitle": "22 (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103666"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "I Almost Do",
+      "legacyDisplayTitle": "I Almost Do",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231026"
+      ],
+      "tvTitle": "I Almost Do (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103667"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "We Are Never Ever Getting Back Together",
+      "legacyDisplayTitle": "We Are Never Ever Getting Back Together",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231018"
+      ],
+      "tvTitle": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103668"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Stay Stay Stay",
+      "legacyDisplayTitle": "Stay Stay Stay",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231023"
+      ],
+      "tvTitle": "Stay Stay Stay (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103669"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "The Last Time",
+      "legacyDisplayTitle": "The Last Time (featuring Gary Lightbody of Snow Patrol)",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231041"
+      ],
+      "tvTitle": "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103670"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Holy Ground",
+      "legacyDisplayTitle": "Holy Ground",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231042"
+      ],
+      "tvTitle": "Holy Ground (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103671"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Sad Beautiful Tragic",
+      "legacyDisplayTitle": "Sad Beautiful Tragic",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231024"
+      ],
+      "tvTitle": "Sad Beautiful Tragic (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103672"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "The Lucky One",
+      "legacyDisplayTitle": "The Lucky One",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231043"
+      ],
+      "tvTitle": "The Lucky One (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103673"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Everything Has Changed",
+      "legacyDisplayTitle": "Everything Has Changed (featuring Ed Sheeran)",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231044"
+      ],
+      "tvTitle": "Everything Has Changed (feat. Ed Sheeran) (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103674"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Starlight",
+      "legacyDisplayTitle": "Starlight",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231022"
+      ],
+      "tvTitle": "Starlight (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103675"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Begin Again",
+      "legacyDisplayTitle": "Begin Again",
+      "legacyAlbum": "Red",
+      "legacyIsrcs": [
+        "USCJY1231045"
+      ],
+      "tvTitle": "Begin Again (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103676"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "The Moment I Knew",
+      "legacyDisplayTitle": "The Moment I Knew",
+      "legacyAlbum": null,
+      "legacyEdition": "Red Deluxe Edition (2012)",
+      "legacyIsrcs": [],
+      "tvTitle": "The Moment I Knew (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103677"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Come Back... Be Here",
+      "legacyDisplayTitle": "Come Back... Be Here",
+      "legacyAlbum": null,
+      "legacyEdition": "Red Deluxe Edition (2012)",
+      "legacyIsrcs": [],
+      "tvTitle": "Come Back... Be Here (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103678"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Girl at Home",
+      "legacyDisplayTitle": "Girl at Home",
+      "legacyAlbum": null,
+      "legacyEdition": "Red Deluxe Edition (2012)",
+      "legacyIsrcs": [],
+      "tvTitle": "Girl at Home (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103679"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "State of Grace (Acoustic Version)",
+      "legacyDisplayTitle": "State of Grace (Acoustic Version)",
+      "legacyAlbum": null,
+      "legacyEdition": "Red Deluxe Edition (2012)",
+      "legacyIsrcs": [],
+      "tvTitle": "State of Grace (Acoustic Version) (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103680"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Ronan",
+      "legacyDisplayTitle": "Ronan",
+      "legacyAlbum": null,
+      "legacyEdition": "Red Deluxe Edition (2012)",
+      "legacyIsrcs": [],
+      "tvTitle": "Ronan (Taylor's Version)",
+      "tvAlbum": "Red (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103681"
+      ],
+      "tvStatus": "released",
+      "era": "Red",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Welcome to New York",
+      "legacyDisplayTitle": "Welcome to New York",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431299"
+      ],
+      "tvTitle": "Welcome to New York (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306672"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Blank Space",
+      "legacyDisplayTitle": "Blank Space",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431309"
+      ],
+      "tvTitle": "Blank Space (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306673"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Style",
+      "legacyDisplayTitle": "Style",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431319"
+      ],
+      "tvTitle": "Style (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306674"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Out of the Woods",
+      "legacyDisplayTitle": "Out of the Woods",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431329",
+        "USCJY1435708"
+      ],
+      "tvTitle": "Out of the Woods (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306675"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "All You Had to Do Was Stay",
+      "legacyDisplayTitle": "All You Had to Do Was Stay",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431339"
+      ],
+      "tvTitle": "All You Had to Do Was Stay (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306676"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Shake It Off",
+      "legacyDisplayTitle": "Shake It Off",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431349"
+      ],
+      "tvTitle": "Shake It Off (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306677"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "I Wish You Would",
+      "legacyDisplayTitle": "I Wish You Would",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431359"
+      ],
+      "tvTitle": "I Wish You Would (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306678"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Bad Blood",
+      "legacyDisplayTitle": "Bad Blood",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431369"
+      ],
+      "tvTitle": "Bad Blood (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306679"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Wildest Dreams",
+      "legacyDisplayTitle": "Wildest Dreams",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431379"
+      ],
+      "tvTitle": "Wildest Dreams (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12103658"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "How You Get the Girl",
+      "legacyDisplayTitle": "How You Get the Girl",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431389"
+      ],
+      "tvTitle": "How You Get the Girl (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306681"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "This Love",
+      "legacyDisplayTitle": "This Love",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431399"
+      ],
+      "tvTitle": "This Love (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12200219"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "I Know Places",
+      "legacyDisplayTitle": "I Know Places",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431409"
+      ],
+      "tvTitle": "I Know Places (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306682"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Clean",
+      "legacyDisplayTitle": "Clean",
+      "legacyAlbum": "1989",
+      "legacyIsrcs": [
+        "USCJY1431419"
+      ],
+      "tvTitle": "Clean (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306683"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": null
+    },
+    {
+      "legacyTitle": "Wonderland",
+      "legacyDisplayTitle": "Wonderland",
+      "legacyAlbum": null,
+      "legacyEdition": "1989 Deluxe Edition (2014)",
+      "legacyIsrcs": [],
+      "tvTitle": "Wonderland (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306684"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "You Are in Love",
+      "legacyDisplayTitle": "You Are in Love",
+      "legacyAlbum": null,
+      "legacyEdition": "1989 Deluxe Edition (2014)",
+      "legacyIsrcs": [],
+      "tvTitle": "You Are in Love (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306685"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "New Romantics",
+      "legacyDisplayTitle": "New Romantics",
+      "legacyAlbum": null,
+      "legacyEdition": "1989 Deluxe Edition (2014)",
+      "legacyIsrcs": [],
+      "tvTitle": "New Romantics (Taylor's Version)",
+      "tvAlbum": "1989 (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12306686"
+      ],
+      "tvStatus": "released",
+      "era": "1989",
+      "explicit": false,
+      "notes": "Deluxe/platinum-edition bonus track. Legacy ISRC unverified (MusicBrainz lookup inconclusive); title matching only."
+    },
+    {
+      "legacyTitle": "Today Was a Fairytale",
+      "legacyDisplayTitle": "Today Was a Fairytale",
+      "legacyAlbum": null,
+      "legacyEdition": null,
+      "legacyIsrcs": [
+        "USCJY1103825",
+        "GBUM71000028"
+      ],
+      "tvTitle": "Today Was a Fairytale (Taylor's Version)",
+      "tvAlbum": "Fearless (Taylor's Version)",
+      "tvIsrcs": [
+        "USUG12100636"
+      ],
+      "tvStatus": "released",
+      "era": "Fearless",
+      "explicit": false,
+      "notes": "Legacy: Valentine's Day soundtrack single (2010).",
+      "single": true
+    },
+    {
+      "legacyTitle": "If This Was a Movie",
+      "legacyDisplayTitle": "If This Was a Movie",
+      "legacyAlbum": null,
+      "legacyEdition": null,
+      "legacyIsrcs": [],
+      "tvTitle": "If This Was a Movie (Taylor's Version)",
+      "tvAlbum": null,
+      "tvIsrcs": [],
+      "tvStatus": "released",
+      "era": "Speak Now",
+      "explicit": false,
+      "notes": "Legacy: Speak Now deluxe bonus. TV released as standalone single (2023), not on the album. TV ISRC unverified.",
+      "single": true
+    }
+  ],
+  "pending": [
+    {
+      "era": "Taylor Swift",
+      "legacyAlbum": "Taylor Swift",
+      "legacyYear": 2006,
+      "legacyLabel": "Big Machine Records",
+      "legacyTracks": [
+        "Tim McGraw",
+        "Picture to Burn",
+        "Teardrops on My Guitar",
+        "A Place in This World",
+        "Cold as You",
+        "The Outside",
+        "Tied Together with a Smile",
+        "Stay Beautiful",
+        "Should've Said No",
+        "Mary's Song (Oh My My My)",
+        "Our Song"
+      ],
+      "taylorsVersion": {
+        "status": "pending",
+        "note": "No release announced as of 2026-09-19. Mapping will be added when the re-recording is released."
+      }
+    },
+    {
+      "era": "Reputation",
+      "legacyAlbum": "Reputation",
+      "legacyYear": 2017,
+      "legacyLabel": "Big Machine Records",
+      "legacyTracks": [
+        "...Ready for It?",
+        "End Game (featuring Ed Sheeran and Future)",
+        "I Did Something Bad",
+        "Don't Blame Me",
+        "Delicate",
+        "Look What You Made Me Do",
+        "So It Goes...",
+        "Gorgeous",
+        "Getaway Car",
+        "King of My Heart",
+        "Dancing with Our Hands Tied",
+        "Dress",
+        "This Is Why We Can't Have Nice Things",
+        "Call It What You Want",
+        "New Year's Day"
+      ],
+      "taylorsVersion": {
+        "status": "pending",
+        "note": "No release announced as of 2026-09-19. Mapping will be added when the re-recording is released."
+      }
+    }
+  ]
+}
