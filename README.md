@@ -6,6 +6,8 @@
 
 > Independent community project. Not affiliated with or endorsed by Spotify AB or Taylor Swift / TAS Rights Management. Uses the official Spotify Web API only.
 
+Built by [Mohammad Movahedi](https://movahedi.ca) — Data Privacy & AI Governance Consultant, Toronto.
+
 ## Repository layout
 
 ```
